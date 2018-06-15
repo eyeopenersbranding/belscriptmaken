@@ -4,20 +4,20 @@
 <?php include 'page_includes/header.php'; ?>
 
 <body class="presentation-page ">
-	
+
 	<?php include 'page_includes/navbar.php'; ?>
   <div class="page-header header-filter header-small" data-parallax="true" style="background-image: url(assets/img/belscriptmaken.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-md-8 ml-auto mr-auto text-center">
                     <h1 class="title">Werken bij belscriptmaken.nl</h1>
-                    <h4>Voor callagents, door callagents</h4>
+                    
                 </div>
             </div>
         </div>
     </div>
     <div class="main main-raised">
-		
+
 			<!--     *********    PRICING 4     *********      -->
             <div class="pricing-4" id="pricing-4">
                 <div class="container">
@@ -25,7 +25,7 @@
                         <div class="col-md-7">
                             <div class="title">
                                 <h2 id="coloredShadows">Doe waar je goed in bent, leer, combineer en doe meer.</h2>
-                                <h4>Zie jij jezelf werken in een creatieve ruimdenkende omgeving waar je helemaal op kunt gaan in je eigen takenpakket? 
+                                <h4>Zie jij jezelf werken in een creatieve ruimdenkende omgeving waar je helemaal op kunt gaan in je eigen takenpakket?
 								Kijk dan snel naar de volgende vacatures.<br />
 								Wij zoeken enthousiaste creatieve denkers en programmeurs!
 								</h4>
@@ -81,17 +81,17 @@
                             </div>
                         </div>
                     </div>
-					
-					
-					
-					
-					
-					
-                  
+
+
+
+
+
+
+
             </div>
         </div>
 		 <!--     *********    END PRICING 4      *********      -->
-		
+
 		      <div class="section section-overview">
                      <div class="features-5" style="background-image: url(assets/img/klantenservicescript.jpg)">
                 <div class="col-md-8 ml-auto mr-auto text-center">
@@ -127,7 +127,7 @@
                                 </div>
                                 <h4 class="info-title">collega's toevoegen</h4>
                                 <p>Voeg callagents toe en ga direct aan de slag. <br /><br />
-								   Bij iedere stap kunnen uw callagents een aanvulling 
+								   Bij iedere stap kunnen uw callagents een aanvulling
 								   inzenden zodat het script gemakkelijk en snel bestand wordt tegen elke situatie.
 								</p>
                             </div>
@@ -146,18 +146,18 @@
                 </div>
             </div>
 		</div>
-	
+
 
     </div>
-		
-		
-		
-		
-		
+
+
+
+
+
 <br /><br />
-	
+
 <?php include 'page_includes/footer.php'; ?>
-	
+
 </body>
 
 
